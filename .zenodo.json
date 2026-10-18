@@ -1,0 +1,14 @@
+{
+  "title": "SPDL1-IPMS: code and processed data for the human Spindly IP-MS dataset",
+  "upload_type": "software",
+  "description": "Code, pipeline inputs (Proteome Discoverer Excel exports) and processed tables accompanying the Scientific Data Data Descriptor on post-translational modifications and interactome of human Spindly (SPDL1, UniProt Q96EA4) in prometaphase-arrested HCT116 and hTERT-RPE1 cells. Mass spectrometry data: PRIDE PXD085140.",
+  "creators": [
+    {"name": "Mora-Santos, Mar", "affiliation": "University of Seville"},
+    {"name": "Romero, Francisco", "affiliation": "University of Seville"}
+  ],
+  "license": "MIT",
+  "keywords": ["Spindly", "SPDL1", "phosphoproteomics", "IP-MS", "mitosis", "kinetochore"],
+  "related_identifiers": [
+    {"identifier": "https://identifiers.org/pride.project:PXD085140", "relation": "isSupplementTo", "resource_type": "dataset"}
+  ]
+}
