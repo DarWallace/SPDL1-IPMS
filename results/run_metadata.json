@@ -1,0 +1,122 @@
+{
+ "R1": {
+  "pdResult": "SPDL1_R1_20220218_targeted_NZ.pdResult",
+  "raw_file_at_acquisition": "NZ.raw",
+  "acquired": "02/18/2022 13:18:07",
+  "instrument": "Q Exactive Plus Orbitrap",
+  "search": {
+   "modifications": [
+    "Oxidation (M)",
+    "Phospho (D, H, K, R, S, T, Y)",
+    "Acetyl (N-Terminus)",
+    "Carbamidomethyl (C)",
+    "MappingL (J)"
+   ],
+   "Protein Database": "NZ-I_Mar-US.fasta",
+   "Max. Missed Cleavage Sites": "2",
+   "Precursor Mass Tolerance": "15 ppm",
+   "Fragment Mass Tolerance": "0.02 Da",
+   "Search Against Decoy Database": "False"
+  }
+ },
+ "R2": {
+  "pdResult": "SPDL1_R2_20220218_targeted_NZ_OK.pdResult",
+  "raw_file_at_acquisition": "NZ-OK.raw",
+  "acquired": "02/18/2022 16:53:36",
+  "instrument": "Q Exactive Plus Orbitrap",
+  "search": {
+   "modifications": [
+    "Oxidation (M)",
+    "Phospho (D, H, K, R, S, T, Y)",
+    "Acetyl (N-Terminus)",
+    "Carbamidomethyl (C)",
+    "MappingL (J)"
+   ],
+   "Protein Database": "NZ-I_Mar-US.fasta",
+   "Max. Missed Cleavage Sites": "2",
+   "Precursor Mass Tolerance": "15 ppm",
+   "Fragment Mass Tolerance": "0.02 Da",
+   "Search Against Decoy Database": "False"
+  }
+ },
+ "R3": {
+  "pdResult": "SPDL1_R3_20220324_targeted_NZ.pdResult",
+  "raw_file_at_acquisition": "NZ_240322.raw",
+  "acquired": "03/24/2022 14:53:57",
+  "instrument": "Q Exactive Plus Orbitrap",
+  "search": {
+   "modifications": [
+    "Oxidation (M)",
+    "Phospho (D, H, K, R, S, T, Y)",
+    "Acetyl (N-Terminus)",
+    "Carbamidomethyl (C)",
+    "MappingL (J)"
+   ],
+   "Protein Database": "NZ-I_Mar-US.fasta",
+   "Max. Missed Cleavage Sites": "2",
+   "Precursor Mass Tolerance": "15 ppm",
+   "Fragment Mass Tolerance": "0.02 Da",
+   "Search Against Decoy Database": "False"
+  }
+ },
+ "R4": {
+  "pdResult": "SPDL1_R4_20220324_targeted_NZ_OK.pdResult",
+  "raw_file_at_acquisition": "NZ-OK_240322.raw",
+  "acquired": "03/24/2022 18:29:22",
+  "instrument": "Q Exactive Plus Orbitrap",
+  "search": {
+   "modifications": [
+    "Oxidation (M)",
+    "Phospho (D, H, K, R, S, T, Y)",
+    "Acetyl (N-Terminus)",
+    "Carbamidomethyl (C)",
+    "MappingL (J)"
+   ],
+   "Protein Database": "NZ-I_Mar-US.fasta",
+   "Max. Missed Cleavage Sites": "2",
+   "Precursor Mass Tolerance": "15 ppm",
+   "Fragment Mass Tolerance": "0.02 Da",
+   "Search Against Decoy Database": "False"
+  }
+ },
+ "R5": {
+  "pdResult": "SPDL1_R5_20220127_targeted_NZ_OK.pdResult",
+  "raw_file_at_acquisition": "Mar-WashingBeads-Sol.raw",
+  "acquired": "01/27/2022 12:39:49",
+  "instrument": "Q Exactive Plus Orbitrap",
+  "search": {
+   "modifications": [
+    "Oxidation (M)",
+    "Phospho (D, H, K, R, S, T, Y)",
+    "Acetyl (N-Terminus)",
+    "Carbamidomethyl (C)",
+    "MappingL (J)"
+   ],
+   "Protein Database": "NZ-I_Mar-US.fasta",
+   "Max. Missed Cleavage Sites": "2",
+   "Precursor Mass Tolerance": "15 ppm",
+   "Fragment Mass Tolerance": "0.05 Da",
+   "Search Against Decoy Database": "False"
+  }
+ },
+ "R6": {
+  "pdResult": "SPDL1_R6_20220127_targeted_NZ_PPasa.pdResult",
+  "raw_file_at_acquisition": "NZ-PPasa_WashingBeads.raw",
+  "acquired": "01/29/2022 02:21:16",
+  "instrument": "Q Exactive Plus Orbitrap",
+  "search": {
+   "modifications": [
+    "Oxidation (M)",
+    "Phospho (D, H, K, R, S, T, Y)",
+    "Acetyl (N-Terminus)",
+    "Carbamidomethyl (C)",
+    "MappingL (J)"
+   ],
+   "Protein Database": "NZ-I_Mar-US.fasta",
+   "Max. Missed Cleavage Sites": "2",
+   "Precursor Mass Tolerance": "15 ppm",
+   "Fragment Mass Tolerance": "0.02 Da",
+   "Search Against Decoy Database": "False"
+  }
+ }
+}

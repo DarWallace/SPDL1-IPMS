@@ -1,0 +1,13 @@
+file,cell_line,treatment,ptm,batch,n_proteins,n_spindly_peptides,n_localised_sites,n_ambiguous_sites
+NZ_240322_vs_UniprotHuman-PHOSPHO.xlsx,HCT116,NZ,phospho,2022-03-24,1527,143,2,1
+NZ-OK_240322_vs_UniprotHuman-PHOSPHO.xlsx,HCT116,NZ_OK,phospho,2022-03-24,1903,119,1,0
+NZ_240322_vs_UniprotHuman-UBI.xlsx,HCT116,NZ,ubi,2022-03-24,1595,140,0,0
+NZ-OK_240322_vs_UniprotHuman-UBI.xlsx,HCT116,NZ_OK,ubi,2022-03-24,1990,118,0,0
+NZ_vs_UniprotHuman-phospho.xlsx,RPE-1,NZ,phospho,2022-02-18,318,54,1,1
+NZ-OK_vs_UniprotHuman-phospho.xlsx,RPE-1,NZ_OK,phospho,2022-02-18,319,58,2,1
+NZ_vs_uniprotHuman-Ubi.xlsx,RPE-1,NZ,ubi,2022-02-18,611,61,0,0
+NZ-OK_vs_UniprotHuman-Ubi.xlsx,RPE-1,NZ_OK,ubi,2022-02-18,549,69,0,0
+NZPPasa-WashingBeadSol_vs_UniprotHuman_PTM-P.xlsx,HCT116,NZ_PPase,phospho,2022-01-27,49,3,0,0
+NZ-OK-WashingBeadSol_vs_UniprotHuman_PTM-P.xlsx,HCT116,NZ_OK,phospho,2022-01-27,68,8,1,0
+NZPPasa-WashingBeadSol_vs_UniprotHuman_PTM-UBI.xlsx,HCT116,NZ_PPase,ubi,2022-01-27,50,3,0,0
+NZ-OK-WashingBeadSol_vs_UniprotHuman_PTM-UBI.xlsx,HCT116,NZ_OK,ubi,2022-01-27,70,7,0,0

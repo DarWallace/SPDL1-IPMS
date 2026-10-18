@@ -1,0 +1,11 @@
+ptm,residue,position,site_id,localised,peptide,confidence,xcorr,cell_line,treatment,batch,source_file
+phospho,S,471,S471,True,DACVNNSALGGEVYR,High,2.02,HCT116,NZ_OK,2022-03-24,NZ-OK_240322_vs_UniprotHuman-PHOSPHO.xlsx
+phospho,S,471,S471,True,DACVNNSALGGEVYR,High,2.19,RPE-1,NZ_OK,2022-02-18,NZ-OK_vs_UniprotHuman-phospho.xlsx
+phospho,S,504,S~504,False,SVSIYTPVVSLSPHKNLPVDMQLK,High,2.85,HCT116,NZ,2022-03-24,NZ_240322_vs_UniprotHuman-PHOSPHO.xlsx
+phospho,S/K,504,S/K~504,False,SVSIYTPVVSLSPHK,High,2.9,RPE-1,NZ,2022-02-18,NZ_vs_UniprotHuman-phospho.xlsx
+phospho,S/K,504,S/K~504,False,SVSIYTPVVSLSPHK,High,2.8,RPE-1,NZ_OK,2022-02-18,NZ-OK_vs_UniprotHuman-phospho.xlsx
+phospho,S,506,S506,True,SVSIYTPVVSLSPHKNLPVDMQLK,High,2.6,RPE-1,NZ,2022-02-18,NZ_vs_UniprotHuman-phospho.xlsx
+phospho,S,515,S515,True,SVSIYTPVVSLSPHK,High,2.82,HCT116,NZ,2022-03-24,NZ_240322_vs_UniprotHuman-PHOSPHO.xlsx
+phospho,K,518,K518,True,SVSIYTPVVSLSPHKNLPVDMQLKK,High,2.66,HCT116,NZ,2022-03-24,NZ_240322_vs_UniprotHuman-PHOSPHO.xlsx
+phospho,K,518,K518,True,SVSIYTPVVSLSPHKNLPVDMQLKK,High,2.61,RPE-1,NZ_OK,2022-02-18,NZ-OK_vs_UniprotHuman-phospho.xlsx
+phospho,S,555,S555,True,SGNTPNSPRLAAESK,High,3.26,HCT116,NZ_OK,2022-01-27,NZ-OK-WashingBeadSol_vs_UniprotHuman_PTM-P.xlsx

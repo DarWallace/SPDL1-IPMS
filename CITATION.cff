@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below, together with the PRIDE dataset PXD085140."
+title: "SPDL1-IPMS: code and processed data for the human Spindly IP-MS dataset"
+version: 1.0.0
+license: MIT
+type: software
+authors:
+  - family-names: Mora-Santos
+    given-names: Mar
+    affiliation: "Department of Microbiology, Faculty of Biology, University of Seville"
+  - family-names: Romero
+    given-names: Francisco
+    affiliation: "Department of Microbiology, Faculty of Biology, University of Seville"
+keywords:
+  - Spindly
+  - SPDL1
+  - phosphoproteomics
+  - immunoprecipitation-mass spectrometry
+  - mitosis
+  - kinetochore
+references:
+  - type: data
+    title: "PRIDE dataset PXD085140"
+    url: "https://www.ebi.ac.uk/pride/archive/projects/PXD085140"
+    authors:
+      - family-names: Mora-Santos
+        given-names: Mar
+      - family-names: Romero
+        given-names: Francisco
